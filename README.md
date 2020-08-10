@@ -38,3 +38,7 @@ _______
 ##### Modelo pronto para Impressão 
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/ilha%20santana%20braile%20model%20pronto.png)
+
+![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/foto_Kana_Manhaes.png)
+<br>
+(foto: Kaná Manhães)
