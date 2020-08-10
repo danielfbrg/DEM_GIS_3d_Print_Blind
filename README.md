@@ -41,4 +41,4 @@ _______
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/foto_Kana_Manhaes.png)
 <br>
-(foto: Kaná Manhães)
+###### (foto: Kaná Manhães)
