@@ -97,7 +97,6 @@ Ao finalizar a área de interesse e seu rótulo, utilizam-se ferramentas de mode
 
 
 ## Fontes
-________
 
 **Qgis**
 https://qgis.org/en/site/
