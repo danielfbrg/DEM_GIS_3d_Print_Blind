@@ -123,7 +123,7 @@ Ao finalizar a área de interesse e seu rótulo, utilizam-se ferramentas de mode
 
 <br>
 
-##### Pãp de Açúcar [[Download do Modelo em .STL](https://# "Em breve")]
+##### Pão de Açúcar [[Download do Modelo em .STL](https://# "Em breve")]
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/pao.png)
 
