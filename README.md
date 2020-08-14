@@ -23,7 +23,7 @@ Aquisição dos modelos digitais de elevação através do projeto [Alos Palsar]
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/alos%20site.png)
 _______
 
-#### Classificação dos dados  [https://qgis.org/]
+#### Classificação dos dados  
 
 Renderização em banda simples falsa-cor para auxiliar na interpretação dos dados utilizando o [QGIS](https://qgis.org/ "QGIS.Org").
 
@@ -45,7 +45,7 @@ Funcionalidade incorporada ao QGIS a partir da versão 3.0, pode ser acessada at
 
 _______
 
-#### DEMto3D [[https://demto3d.com/]]
+#### DEMto3D 
 
 [DEMto3D](https://demto3d.com/) é o primeiro **plugin** a unir **GIS** (Sistema de Informação Geográfica) e **Impressão 3D**. Este complemento está disponível para o software [QGIS](https://qgis.org/) e permite a impressão 3D de DEMs (Modelos Digitais de Elevação).
 
@@ -78,13 +78,13 @@ _______
 
 Ao finalizar a área de interesse e seu rótulo, utilizam-se ferramentas de modelagem 3D para unir as peças que serão impressas. Existem inúmeras ferramentas que podem ser empregadas para esta função como: [Blender](https://www.blender.org/) e [3D Builder](https://www.microsoft.com/pt-br/p/3d-builder/9wzdncrfj3t6#activetab=pivot:overviewtab), ambos softwares gratuitos.
 
-##### Apa do Arquipélago de Santana [[Download .STL](https://#)].
-
-<br>
+##### Apa do Arquipélago de Santana
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/ilha%20santana%20braile%20model%20pronto.png)
 
 <br>
+
+[[Download do Modelo em .STL](https://# "Apa do Arquipélago de Santana.stl")]
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/foto_Kana_Manhaes.png)
 > foto: Kaná Manhães
