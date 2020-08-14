@@ -138,23 +138,20 @@ Ao finalizar a área de interesse e seu rótulo, utilizam-se ferramentas de mode
 
 ## Fontes
 
-**Qgis**
-https://qgis.org/en/site/
-
-**DEMto3D**
-https://demto3d.com/
-
-**3D Builder**
+**3D Builder** 
 https://www.microsoft.com/pt-br/p/3d-builder/9wzdncrfj3t6?activetab=pivot:overviewtab
-
-**Blender**
-https://www.blender.org/
 
 **Alos Palsar**
 https://search.asf.alaska.edu/
 
+**Blender**
+https://www.blender.org/
+
+**DEMto3D**
+https://demto3d.com/
+
+**Qgis**
+https://qgis.org/en/site/
+
 **Text to 3d printable Braille**
 http://v01pe.github.io/Text2Braille3d/
-
-
-
