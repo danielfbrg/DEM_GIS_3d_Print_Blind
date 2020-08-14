@@ -78,13 +78,11 @@ _______
 
 Ao finalizar a área de interesse e seu rótulo, utilizam-se ferramentas de modelagem 3D para unir as peças que serão impressas. Existem inúmeras ferramentas que podem ser empregadas para esta função como: [Blender](https://www.blender.org/) e [3D Builder](https://www.microsoft.com/pt-br/p/3d-builder/9wzdncrfj3t6#activetab=pivot:overviewtab), ambos softwares gratuitos.
 
-##### Apa do Arquipélago de Santana
+##### Apa do Arquipélago de Santana [[Download do Modelo em .STL](https://# "Apa do Arquipélago de Santana.stl")]
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/ilha%20santana%20braile%20model%20pronto.png)
 
 <br>
-
-[[Download do Modelo em .STL](https://# "Apa do Arquipélago de Santana.stl")]
 
 ![](https://raw.githubusercontent.com/danielfbrg/DEM_GIS_3d_Print_Blind/master/img/foto_Kana_Manhaes.png)
 > foto: Kaná Manhães
